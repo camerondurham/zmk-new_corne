@@ -4,8 +4,6 @@ Best if edited using: https://nickcoutsos.github.io/keymap-editor
 
 ![Photo of Eyelash Peripherals Corne](./assets/DeskCorneKeyboard.jpg)
 
-If you need a 3D model of this keyboard, email `380465425@qq.com`.
-
 ## Instructions
 
 1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
