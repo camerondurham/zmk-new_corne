@@ -2,7 +2,7 @@
 
 Best if edited using: https://nickcoutsos.github.io/keymap-editor
 
-![Photo of Eyelash Peripherals Corne](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
+![Photo of Eyelash Peripherals Corne](./resources/DeskCorneKeyboard.jpg)
 
 If you need a 3D model of this keyboard, email `380465425@qq.com`.
 
