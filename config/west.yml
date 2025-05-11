@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: m165437
-      url-base: https://github.com/M165437
+    - name: camerondurham # originally m165437
+      url-base: https://github.com/camerondurham
       # Additional modules containing boards/shields/custom code can be listed here as well.
       # See:
       # - https://zmk.dev/docs/features/modules
@@ -18,7 +18,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: nice-view-gem
-      remote: m165437
+      remote: camerondurham
       revision: main
   self:
     path: config
