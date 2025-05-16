@@ -2,7 +2,11 @@
 
 Best if edited using: https://nickcoutsos.github.io/keymap-editor
 
+### Low Profile Keyboard
 ![Photo of Eyelash Peripherals Corne](./assets/DeskCorneKeyboard.jpg)
+
+### Tented Keyboard
+![Photo of Tented Eyelash Peripherals Corne](./assets/TentedCorneKeyboard.png)
 
 ## Instructions
 
